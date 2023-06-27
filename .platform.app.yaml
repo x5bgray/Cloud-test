@@ -1,5 +1,5 @@
 # The name of the app. Must be unique within a project.
-name: app
+name: webh
 
 # The type of the application to build
 type: 'nodejs:16'
