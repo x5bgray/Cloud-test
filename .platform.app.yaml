@@ -14,4 +14,4 @@ web:
 mounts:
     'log':
         source: local
-        source_path: "./log/"
+        source_path: "log/"
