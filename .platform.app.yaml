@@ -11,3 +11,7 @@ disk: 512
 web:
     commands:
         start: NODE_ENV=production npm run start
+mounts:
+    'log':
+        source: local
+        source_path: "./log/"
